@@ -1,55 +1,23 @@
-# 👋 Hi, I’m Anitha  
-💡 Aspiring **Data Analyst | SQL | Python | Power BI | Generative AI**
+<h1 align="center">Hi 👋, I'm Srikanth</h1>
+<h3 align="center">A passionate about Data analyst from India</h3>
 
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=srikath-hub&label=Profile%20views&color=0e75b6&style=flat" alt="srikath-hub" /> </p>
 
-## 🚀 About Me  
-- 🎓 Passionate about **Data Analytics & Business Intelligence**  
-- 🛠 Skilled in **SQL, Python, Power BI, Excel**  
-- 🤖 Exploring **AI-powered analytics**  
-- 📊 Building projects in **Sales, Churn, HR, and Supply Chain Analytics**  
+- 👨‍💻 All of my projects are available at [https://github.com/Srikath-hub](https://github.com/Srikath-hub)
 
----
+- ⚡ Fun fact **I am funny**
 
-## 🛠️ Tech Skills  
-**SQL | Python | Power BI | Tableau | Excel | Generative AI**
-
----
-
-## 📂 Featured Projects  
-
-<p align="center">
-  <a href="https://github.com/YourUsername/Ecommerce-Sales-Analysis">
-    <img src="https://raw.githubusercontent.com/YourUsername/Ecommerce-Sales-Analysis/main/dashboard.png" width="400px" alt="Ecommerce Sales Analysis"/>
-  </a>
-  <br>
-  📊 <b>E-Commerce Sales Analysis</b>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
 
-<p align="center">
-  <a href="https://github.com/YourUsername/Customer-Churn-Analysis">
-    <img src="https://raw.githubusercontent.com/YourUsername/Customer-Churn-Analysis/main/dashboard.png" width="400px" alt="Customer Churn Analysis"/>
-  </a>
-  <br>
-  📉 <b>Customer Churn Analysis</b>
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
-<p align="center">
-  <a href="https://github.com/YourUsername/HR-Attrition-Analysis">
-    <img src="https://raw.githubusercontent.com/YourUsername/HR-Attrition-Analysis/main/dashboard.png" width="400px" alt="HR Attrition Dashboard"/>
-  </a>
-  <br>
-  🏢 <b>HR Attrition Dashboard</b>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srikath-hub&show_icons=true&locale=en&layout=compact" alt="srikath-hub" /></p>
 
-<p align="center">
-  <a href="https://github.com/YourUsername/Supply-Chain-Analysis">
-    <img src="https://raw.githubusercontent.com/YourUsername/Supply-Chain-Analysis/main/dashboard.png" width="400px" alt="Supply Chain Analysis"/>
-  </a>
-  <br>
-  🚚 <b>Supply Chain Analysis</b>
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srikath-hub&show_icons=true&locale=en" alt="srikath-hub" /></p>
 
----
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srikath-hub&" alt="srikath-hub" /></p>
 
 
