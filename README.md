@@ -1,23 +1,44 @@
-<h1 align="center">Hi 👋, I'm Srikanth</h1>
-<h3 align="center">A passionate about Data analyst from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=srikath-hub&label=Profile%20views&color=0e75b6&style=flat" alt="srikath-hub" /> </p>
-
-- 👨‍💻 All of my projects are available at [https://github.com/Srikath-hub](https://github.com/Srikath-hub)
-
-- ⚡ Fun fact **I am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/assets/data-analyst-banner.png" alt="Data Analyst Banner" width="100%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srikath-hub&show_icons=true&locale=en&layout=compact" alt="srikath-hub" /></p>
+<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h3 align="center">📊 Aspiring Data Analyst | SQL | Python | Power BI | Excel</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srikath-hub&show_icons=true&locale=en" alt="srikath-hub" /></p>
+img align="right" alt="Data Analyst" width="350" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srikath-hub&" alt="srikath-hub" /></p>
+### 🌟 About Me
+-  Fresher passionate about **Data Analytics**
+-  Skilled in **Data Cleaning, Visualization, and Insights Generation**
+-  Looking for Entry Level opportunities in **Data Analyst** role
 
+### 🛠 Tech Stack
+- **Languages:** SQL | Python | R  
+- **Visualization:** Power BI | Tableau | Matplotlib | Seaborn | Plotly  
+- **Databases:** MySQL | PostgreSQL | SQLite  
+- **Data Analysis & EDA:** Pandas | NumPy | Exploratory Data Analysis (EDA) | Data Cleaning | Data Wrangling  
+- **Other Tools:** Excel | Git | Jupyter Notebook  
 
+### My  Projects
+
+ 1.**[Sales Analysis Dashboard](https://github.com/yourusername/sales-analysis)**  
+🔹 Built a **Excel dashboard** to analyze sales trends, revenue, and customer profiles.  
+
+2. **[Inventory & Supply Chain Analysis](https://github.com/yourusername/inventory-supply-chain)**  
+🔹 Performed **EDA using Python & SQL,power bi dashborad**, visualized demand vs supply, lead times, and stockouts.  
+
+3. **[Telco Customer Churn Analysis](https://github.com/yourusername/telco-churn)**  
+🔹 Created a **churn prediction analysis Dashboard**, highlighting key factors for customer retention.  
+
+### 🎓 Certifications
+-  Completed **Data Analytics Course** – *Besant Technologies*  
+-  **Cisco Data Analyst Certification** – *Cisco Networking Academy*  
+
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/yourlinkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="anikunchala123@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" /></a>
+  <a href="https://yourportfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-black?logo=github&logoColor=white" /></a>
+</p>
