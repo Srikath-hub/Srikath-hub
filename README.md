@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/assets/data-analyst-banner.png" alt="Data Analyst Banner" width="100%" />
+  <img src="https://chatgpt.com/s/m_68a80ef19c6481918e375111103e1206" width="100%" />
 </p>
 
 
