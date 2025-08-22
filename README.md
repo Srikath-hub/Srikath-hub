@@ -35,12 +35,15 @@
 ### 🎓 Certifications
 -  Completed **Data Analytics Course** – *Besant Technologies*  
 -  **Cisco Data Analyst Certification** – *Cisco Networking Academy*  
-
-
-
 ### 🌐 Connect with Me
 <p align="center">
   <a href="mailto:anikunchala123@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" />
   </a>
 </p>
+
+<p align="center">
+  📬 <a href="mailto:anikunchala123@gmail.com">Email Me</a>
+</p>
+
+
