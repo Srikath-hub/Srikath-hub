@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://chatgpt.com/s/m_68a80ef19c6481918e375111103e1206" width="100%" />
+  <img src="https://github.com/Srikath-hub/Srikath-hub/blob/main/Data%20Analyst%20at%20Work.png" width="100%" />
 </p>
 
 
