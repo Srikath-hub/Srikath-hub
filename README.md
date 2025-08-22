@@ -36,9 +36,11 @@
 -  Completed **Data Analytics Course** – *Besant Technologies*  
 -  **Cisco Data Analyst Certification** – *Cisco Networking Academy*  
 
+
+
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/yourlinkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="anikunchala123@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" /></a>
-  <a href="https://yourportfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-black?logo=github&logoColor=white" /></a>
+  <a href="mailto:anikunchala123@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" />
+  </a>
 </p>
