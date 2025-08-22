@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm [Your Name]</h1>
 <h3 align="center">📊 Aspiring Data Analyst | SQL | Python | Power BI | Excel</h3>
 
-img align="right" alt="Data Analyst" width="350" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
+<img align="right" alt="Data Analyst" width="350" src="https://github.com/Srikath-hub/Srikath-hub/blob/main/Screenshot%202025-08-22%20122624.png" />
 
 ### 🌟 About Me
 -  Fresher passionate about **Data Analytics**
