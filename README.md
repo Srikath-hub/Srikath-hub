@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/Srikath-hub/Srikath-hub/blob/main/Data%20Analyst%20at%20Work.png" width="100%" />
+  <img src="https://github.com/Srikath-hub/Srikath-hub/blob/main/An%C3%A1lisis%20de%20Datos%20en%20Acci%C3%B3n.png" width="100%" />
 </p>
 
 
